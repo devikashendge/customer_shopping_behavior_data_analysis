@@ -106,7 +106,7 @@ customer-shopping-behavior-analysis/
   - Revenue by Age group
   - sales by Age group
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](images/dashboard.jpg)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
